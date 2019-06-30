@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Foko Test</string>
+    <string name="title_activity_player_detail">Player Country and Flag</string>
+    <string name="back">Back</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+</resources>
